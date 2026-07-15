@@ -1,0 +1,6 @@
+{
+  "name": "flood-warning-system",
+  "description": "An advanced, multi-model atmospheric modeling and risk prediction system featuring high-fidelity telemetry, 3D vector graphics, interactive sandbox simulators, and alert systems developed under NIELIT Chennai.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
